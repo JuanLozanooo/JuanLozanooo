@@ -30,16 +30,14 @@
 
 ###
 
-<div align="center">
-  <a href="https://open.spotify.com/user/juanda_lozano">
-    <img src="https://spotify-recently-played-readme.vercel.app/api?user=juanda_lozano&count=5&unique=true" alt="Spotify recently played"  />
-  </a>
-</div>
+<img align="right" height="103" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExeGk1ZXMxYnV0ajBmbjRiN3ZhdHk5cndteXdwMmJ3YjJzc2Rjd3VrMCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/6CB9YdG1WDDo3eJXVT/giphy.gif"  />
 
 ###
 
 <div align="center">
-  <img height="200" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExeGk1ZXMxYnV0ajBmbjRiN3ZhdHk5cndteXdwMmJ3YjJzc2Rjd3VrMCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/6CB9YdG1WDDo3eJXVT/giphy.gif"  />
+  <a href="https://open.spotify.com/user/juanda_lozano">
+    <img src="https://spotify-recently-played-readme.vercel.app/api?user=juanda_lozano&count=10&unique=true" alt="Spotify recently played"  />
+  </a>
 </div>
 
 ###
